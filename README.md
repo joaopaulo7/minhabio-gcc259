@@ -6,6 +6,9 @@ joaopauloff77@gmail.com
 Estudante do sétimo período do curso de Bacharelado em Ciência da Computação na Universidade Federal De Lavras (UFLA). Atualmente desenvolvendo pesquisa na área de recuperação de informação e participante do Laboratório de Recuperação de Informação da UFLA. 
 
 
+![Cara bonitão dmss](./IMG_20221010_212715.jpg "minha foto")
+
+
 ## Experiência
 
 #### **Universidade Federal de Lavras, Lavras-MG — Pesquisador aprendiz**
